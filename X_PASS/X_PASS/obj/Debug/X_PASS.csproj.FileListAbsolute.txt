@@ -1,0 +1,12 @@
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\bin\Debug\X_PASS.exe.config
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\bin\Debug\X_PASS.exe
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\bin\Debug\X_PASS.pdb
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\obj\Debug\X_PASS.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\obj\Debug\X_PASS.Form1.resources
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\obj\Debug\X_PASS.Properties.Resources.resources
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\obj\Debug\X_PASS.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\obj\Debug\X_PASS.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\obj\Debug\X_PASS.exe
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\obj\Debug\X_PASS.pdb
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\obj\Debug\X_PASS.Main.resources
+C:\Users\MyPC\source\repos\X_PASS\X_PASS\obj\Debug\X_PASS.AddColumn.resources
